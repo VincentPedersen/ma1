@@ -5,8 +5,8 @@
 ### Group members
 | Student name | Student ID |
 | --- | --- |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
+| Vincent Pedersen| 146232 |
+| Christian Bredgaard | 145108 |
 | #NAME# | #ID# |
 
 ***
