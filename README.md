@@ -12,6 +12,9 @@
 ***
 
 <br>
+Little Note: 
+Changed the environment.yml file in order to use the gpu on apple silicon
+<br>
 
 # Mandatory assignment 1
 
