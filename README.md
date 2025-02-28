@@ -12,7 +12,9 @@
 ***
 
 <br>
-
+Little note: 
+Changed the environment.yml file in order to use the gpu on apple silicon macbook 
+<br>
 # Mandatory assignment 1
 
 This repository contains the first mandatory assignment (MA1) for AIML25. It consists of two parts: Artificial Neural Networks and Convolutional Neural Networks. Please read the description for each part of the assignment carefully. 
